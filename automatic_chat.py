@@ -1,4 +1,4 @@
-import pyautogui
+import pyautogui # pip install pyautogui
 conversation = [
 "What song was or do you want to be the your first dance at your wedding?",
 "What song would make the best theme music for you?",
